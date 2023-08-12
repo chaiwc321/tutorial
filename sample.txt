@@ -2,4 +2,5 @@
 add 把变更录入到索引中
 commit 记录索引的状态
 加了issue1
-issue2改动
+先添加了issue2改动
+再添加了issue3修改
